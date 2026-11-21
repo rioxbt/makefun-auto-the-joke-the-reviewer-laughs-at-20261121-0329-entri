@@ -1,0 +1,4 @@
+# Bytecode and build caches: never part of the entry.
+__pycache__/
+*.py[cod]
+.venv/
